@@ -1,5 +1,8 @@
 # Belly Button Biodiversity Dashboard
 
+![Screenshot 2023-03-19 101823](https://user-images.githubusercontent.com/113273722/226183624-9070e11c-f258-41ff-947f-d6cdc54d3670.png)
+
+
 ## Background
 
 The Belly Button Biodiversity dataset is a collection of information about the microbes that inhabit human navels.
@@ -35,6 +38,7 @@ Complete the following steps to build the dashboard:
 **4-** Display the sample metadata, i.e., an individual's demographic information.
 
 **5-** Display each key-value pair from the metadata JSON object somewhere on the page.
+
 **6-** Update all the plots when a new sample is selected.
 
 ## How to Use
